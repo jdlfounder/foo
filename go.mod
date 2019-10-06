@@ -1,3 +1,3 @@
-module github.com/jdlfounder/foo/v2
+module github.com/jdlfounder/foo
 
 go 1.13
